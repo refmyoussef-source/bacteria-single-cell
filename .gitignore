@@ -1,0 +1,21 @@
+# Ignore Heavy Data Folders
+raw_data/
+processed_data/
+references/
+fastqc_reports/
+
+# Ignore Large Files
+*.fastq.gz
+*.fq.gz
+*.bam
+*.sam
+*.fa
+*.fna
+*.gtf
+*.gff
+*.rds
+*.RData
+
+# Ignore Cache and Temp files
+.ipynb_checkpoints/
+__pycache__/
