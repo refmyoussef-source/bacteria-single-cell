@@ -12,7 +12,7 @@ The PCA plot shows clear separation between the conditions. Notably, the **Biofi
 ![PCA Plot](E_coli_PCA.png)
 
 ### 2. Gene Expression Heatmap
-We identified top variable genes driving these differences. The heatmap below highlights specific gene clusters activated only during Biofilm formation (bottom yellow block).
+We identified the top variable genes driving these differences. The heatmap below highlights specific gene clusters activated only during Biofilm formation (bottom yellow block).
 
 ![Heatmap](E_coli_Heatmap.png)
 
