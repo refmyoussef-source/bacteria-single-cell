@@ -17,8 +17,8 @@ We identified the top variable genes driving these differences. The heatmap belo
 ![Heatmap](E_coli_Heatmap.png)
 
 ## 🛠️ Pipeline
-1.  **QC:** FastQC & MultiQC.
-2.  **Alignment:** Salmon (Mapping to MG1655 Reference).
+1.  **QC :** FastQC & MultiQC.
+2.  **Alignment :** Salmon (Mapping to MG1655 Reference).
 3.  **Analysis:** Seurat (Normalization, PCA, Differential Expression).
 
 ## 📂 Repository Structure
